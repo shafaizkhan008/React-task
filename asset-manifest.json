@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shafaizkhan008/react-task.git/static/css/main.9e32434e.css",
+    "main.js": "/shafaizkhan008/react-task.git/static/js/main.0658a3de.js",
+    "static/media/3.png": "/shafaizkhan008/react-task.git/static/media/3.9bdf6e32643ec26e93db.png",
+    "static/media/homepagebackground.png": "/shafaizkhan008/react-task.git/static/media/homepagebackground.c3185e248aa19bf9734a.png",
+    "static/media/user.jpg": "/shafaizkhan008/react-task.git/static/media/user.58081dc8c31bc0e1cb6c.jpg",
+    "index.html": "/shafaizkhan008/react-task.git/index.html",
+    "main.9e32434e.css.map": "/shafaizkhan008/react-task.git/static/css/main.9e32434e.css.map",
+    "main.0658a3de.js.map": "/shafaizkhan008/react-task.git/static/js/main.0658a3de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e32434e.css",
+    "static/js/main.0658a3de.js"
+  ]
+}
